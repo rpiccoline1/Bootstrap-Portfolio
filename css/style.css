@@ -1,0 +1,173 @@
+.navbar-header {
+    padding: 10px;
+    background-color: teal;
+    color: white;
+    font-size: 16px;
+    margin-left: 115px;
+}
+
+.navbar-right {
+    padding: 20px;
+    font-size: 16px;
+    margin-right: 140px;
+}
+
+.panel-default {
+    width: 280px;
+}
+
+.panel-heading {
+    color: teal;
+    text-align: center;
+    font-weight: bold;
+}
+
+.body {
+    background-image: url(dust_scratches.png);
+    height: 120%;
+}
+
+.footer {
+    padding: 20px;
+    border-top: 10px solid teal;
+    background-color: darkgray;
+    text-align: center;
+}
+
+.h2 {
+    color: teal;
+    font-size: 16px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-github {
+    background: #000000;
+    color: white;
+}
+
+.fa-twitch {
+    background: #8a2be2;
+    color: white;
+}
+
+.hangman {
+    width: 200px;
+    height: 200px;
+    margin-left: 35px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.rpg {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.trivia {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.rutgers {
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 150px;
+    position: relative;
+}
+
+.random {
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.banner1 {
+    position: absolute;
+    padding: 5px;
+    background-color: silver;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    width: 200px;
+    margin-left: 35px;
+    margin-top: -50px;
+}
+
+.banner2 {
+    position: absolute;
+    padding: 5px;
+    background-color: silver;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    width: 200px;
+    margin-left: 259px;
+    margin-top: -50px;
+}
+
+.banner3 {
+    position: absolute;
+    padding: 5px;
+    background-color: silver;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    width: 200px;
+    margin-left: 483px;
+    margin-top: -50px;
+}
+
+.banner4 {
+    position: absolute;
+    padding: 5px;
+    background-color: silver;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.banner5 {
+    position: absolute;
+    padding: 5px;
+    background-color: silver;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    width: 200px;
+    margin-left: 50px;
+    margin-top: -50px;
+}
